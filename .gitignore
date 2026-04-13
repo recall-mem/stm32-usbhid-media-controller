@@ -1,0 +1,11 @@
+
+
+## Keil uVision
+DebugConfig/
+Listings/
+Objects/
+RTE/
+*.scvd
+*.uvguix.*
+*.uvoptx
+#*.uvprojx
